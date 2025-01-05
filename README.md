@@ -1,6 +1,5 @@
 
-# AskPDF 
-##(PDF Question Answering System with LangChain and HuggingFace ) 
+# AskPDF (PDF Question Answering System with LangChain and HuggingFace ) 
 
 This project demonstrates how to build a **Question Answering (QA)** system using **LangChain**, **HuggingFace models**, and **FAISS vector database** to retrieve relevant information from PDF documents.
 
